@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# cvedb2
+# CVE DATABASE
 
 This project is a web application designed to manage and display CVE (Common Vulnerabilities and Exposures) data efficiently. It allows users to browse, search, and view detailed CVE information with a dynamic and responsive interface.
 
