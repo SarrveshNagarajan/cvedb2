@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cvedb2
 
 This project is a web application designed to manage and display CVE (Common Vulnerabilities and Exposures) data efficiently. It allows users to browse, search, and view detailed CVE information with a dynamic and responsive interface.
@@ -80,4 +81,7 @@ CREATE TABLE IF NOT EXISTS vulnerability (
 ## API Endpoints
 - **Get CVE List**: `GET /cves/list?page=<page>&limit=<limit>&search=<search>&baseScore=<baseScore>&year=<year>&lastModified=<lastModified>`
 - **Get CVE Details**: `GET /cves/:id`
+=======
+# CVE DATABASE
+>>>>>>> ba74580421a2aa4ba1032768d16e8dcafdfca62f
  
