@@ -80,6 +80,5 @@ CREATE TABLE IF NOT EXISTS vulnerability (
 ## API Endpoints
 - **Get CVE List**: `GET /cves/list?page=<page>&limit=<limit>&search=<search>&baseScore=<baseScore>&year=<year>&lastModified=<lastModified>`
 - **Get CVE Details**: `GET /cves/:id`
-=======
 
  
